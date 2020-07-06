@@ -18,7 +18,7 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
-## How the run the agent
+## How to run the agent
 In order to do this, it is just necesary to run the file 'project.ipynb', or open the Unity ML Agent with the weights included in the repository (already trained agent).
 
 ## Installing what is required
